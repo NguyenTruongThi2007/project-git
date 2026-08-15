@@ -1,0 +1,5 @@
+"Hi, my name is Thi"
+"Nguyen Truong Thi"
+"2007"
+"ntt"
+"Hi, my name is ......."
